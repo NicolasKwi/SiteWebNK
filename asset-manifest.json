@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b027f9b1.chunk.css",
+    "main.css": "/static/css/main.9ef70b66.chunk.css",
     "main.js": "/static/js/main.cf362147.chunk.js",
     "main.js.map": "/static/js/main.cf362147.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba1d7a90.js",
@@ -8,14 +8,14 @@
     "static/js/2.c63818d4.chunk.js": "/static/js/2.c63818d4.chunk.js",
     "static/js/2.c63818d4.chunk.js.map": "/static/js/2.c63818d4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b027f9b1.chunk.css.map": "/static/css/main.b027f9b1.chunk.css.map",
+    "static/css/main.9ef70b66.chunk.css.map": "/static/css/main.9ef70b66.chunk.css.map",
     "static/js/2.c63818d4.chunk.js.LICENSE.txt": "/static/js/2.c63818d4.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/teal-g3662234fd_1280.f074d186.png"
+    "static/media/index.scss": "/static/media/reunionprojet.7c3dedbb.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.ba1d7a90.js",
     "static/js/2.c63818d4.chunk.js",
-    "static/css/main.b027f9b1.chunk.css",
+    "static/css/main.9ef70b66.chunk.css",
     "static/js/main.cf362147.chunk.js"
   ]
 }
